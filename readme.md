@@ -1,4 +1,4 @@
-# Xfce/Xfwm4 Theme Windows 10
+# Fluency Xfwm4 Light Theme
 ## Installation
 Just copy to ~ / .themes
 ```sh
